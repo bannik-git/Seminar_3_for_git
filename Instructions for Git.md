@@ -180,7 +180,7 @@ git merge имя_ветки
 ## Полезные ссылки
 ---
 
-
-
+1. Полная инструкция по Git на русском языке <https://www.atlassian.com/ru/git/tutorials> 
+2. Инструкция по использованию языка разметки Markdown <https://doka.guide/tools/markdown/>
 
 
