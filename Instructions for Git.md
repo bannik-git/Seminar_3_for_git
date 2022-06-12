@@ -1,5 +1,17 @@
 # <p style="font-size: 40px;">Инструкция по использованию программного обеспечения Git</p>
 
+<br>
+
+## <p style="font-size: 30px;">Содержание</p>
+
+## <p style = text-indent:20px>[Историческая справка](#history)</p>
+## <p style = text-indent:20px>[Команды Git для работы внутри ветки.](#git-command)</p>
+## <p style = text-indent:20px>[Работа с ветками](#work-branch)</p>
+## <p style = text-indent:20px>[Работа онлайн](#work-online)</p>
+## <p style = text-indent:20px>[Послезные ссылки](#links)</p>
+
+<br><br><br><br>
+<a name="history"></a>
 ## <p style="font-size: 30px;">Историческая справка</p>
 ---
 <br>
@@ -23,6 +35,8 @@
 
 <p style = text-indent:25px>С момента своего появления в 2005 году, Git развился в простую в использовании систему, сохранив при этом свои изначальные качества. Он удивительно быстр, эффективен в работе с большими проектами и имеет великолепную систему веток для нелинейной разработки.</p>
 <br><br>
+
+<a name="git-command"></a>
 
 ## <p style="font-size: 30px;">Команды Git для работы внутри ветки.</p>
 ---
@@ -127,6 +141,8 @@ git checkout master
 
 <br><br>
 
+<a name="branch-work"></a>
+
 ## <p style="font-size: 30px;">Работа с ветками</p>
 ---
 <br>
@@ -202,12 +218,14 @@ git merge имя_ветки
 
 <br><br>
 
+<a name="work-online"></a>
 ## <p style="font-size: 30px;">Работа online</p>
 ---
 <br>
 
 <br><br>
 
+<a name="links"></a>
 ## <p style="font-size: 30px;">Полезные ссылки</p>
 ---
 <br>
