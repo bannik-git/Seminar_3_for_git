@@ -5,28 +5,29 @@
 ## <p style= font-size:30px>Содержание</p>
 
 ## <p style = text-indent:20px>[Историческая справка](#history)</p>
-<br>
+
 
 ## <p style = text-indent:20px>[Команды Git для работы внутри ветки.](#git-command)</p>
 
-### <p style = text-indent:40px>[Начало работы - Инициализация](#init)</p>
-### <p style = text-indent:40px>[Отслеживание состояния Git](#status)</p>
-### <p style = text-indent:40px>[Отслеживание файлов и коммитов](#add)</p>
-### <p style = text-indent:40px>[Сохранение и комментирование](#commit)</p>
-### <p style = text-indent:40px>[Игнорирование файлов](#gitignore)</p>
-### <p style = text-indent:40px>[Просмотр версий](#log)</p>
-### <p style = text-indent:40px>[Перемещение между версиями](#version-change)</p>
+### <p style = text-indent:40px;line-height:20px>[Начало работы - Инициализация](#init)</p>
+### <p style = text-indent:40px;line-height:20px>[Отслеживание состояния Git](#status)</p>
+### <p style = text-indent:40px;line-height:20px>[Отслеживание файлов и коммитов](#add)</p>
+### <p style = text-indent:40px;line-height:20px>[Сохранение и комментирование](#commit)</p>
+### <p style = text-indent:40px;line-height:20px>[Игнорирование файлов](#gitignore)</p>
+### <p style = text-indent:40px;line-height:20px>[Просмотр версий](#log)</p>
+### <p style = text-indent:40px;line-height:20px>[Перемещение между версиями](#version-change)</p>
 
 <br>
 
 ## <p style = text-indent:20px>[Работа с ветками](#work-branch)</p>
 
-### <p style = text-indent:40px>[Создание веток](#branch-name)</p>
-### <p style = text-indent:40px>[Переименование веток](#branch-m)</p>
-### <p style = text-indent:40px>[Удаление веток](#branch-d)</p>
-### <p style = text-indent:40px>[Просмотр списка созданных веток](#branch)</p>
-### <p style = text-indent:40px>[Переходы между ветками](#checkout-branch)</p>
-### <p style = text-indent:40px>[Слияние веток](#merge-branch)</p>
+
+### <p style = text-indent:40px;line-height:20px>[Создание веток](#branch-name)</p>
+### <p style = text-indent:40px;line-height:20px>[Переименование веток](#branch-m)</p>
+### <p style = text-indent:40px;line-height:20px>[Удаление веток](#branch-d)</p>
+### <p style = text-indent:40px;line-height:20px>[Просмотр списка созданных веток](#branch)</p>
+### <p style = text-indent:40px;line-height:20px>[Переходы между ветками](#checkout-branch)</p>
+### <p style = text-indent:40px;line-height:20px>[Слияние веток](#merge-branch)</p>
 <br>
 
 ## <p style = text-indent:20px>[Работа онлайн](#work-online)</p>
